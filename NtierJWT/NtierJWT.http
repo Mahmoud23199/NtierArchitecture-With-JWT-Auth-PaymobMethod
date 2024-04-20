@@ -1,0 +1,6 @@
+@NtierJWT_HostAddress = http://localhost:5151
+
+GET {{NtierJWT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
